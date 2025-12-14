@@ -1,0 +1,47 @@
+# ===============================
+# Data & Generated Artifacts
+# ===============================
+dataset/
+features/
+models/
+
+# ===============================
+# Large / Binary Files
+# ===============================
+*.csv
+*.npy
+*.pkl
+*.cbm
+*.h5
+*.joblib
+
+# ===============================
+# Python Cache & Virtual Envs
+# ===============================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env/
+.venv/
+venv/
+
+# ===============================
+# Jupyter / Notebook Artifacts
+# ===============================
+.ipynb_checkpoints/
+*.ipynb
+
+# ===============================
+# OS / Editor Files
+# ===============================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ===============================
+# Logs & Temporary Files
+# ===============================
+*.log
+*.tmp
